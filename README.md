@@ -4,13 +4,13 @@
 E-Commerce
 
 ## Techniques
-Pivot Tables
-custom Charts
-GetPivotData
-Data Formatting
-Calculated field
-Filterting 
-Sorting
+/nPivot Tables
+/ncustom Charts
+/nGetPivotData
+/nData Formatting
+/nCalculated field
+/nFilterting 
+/nSorting
 
 
 ## Final Dashboard
